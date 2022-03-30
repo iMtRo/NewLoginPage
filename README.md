@@ -1,12 +1,9 @@
 ### Hi there 👋, My name is Maxmudov Ilyos
 #### I am IOS developer
-![I am IOS developer]
 
 <img width="469" alt="Screen Shot 2022-03-30 at 18 15 23" src="https://user-images.githubusercontent.com/97552255/160897841-47bd874d-b37d-4e13-9141-bc3b716c1dab.png"><img width="469" alt="Screen Shot 2022-03-30 at 18 15 29" src="https://user-images.githubusercontent.com/97552255/160897870-c1d729ca-2041-430e-bd1e-a280fccc7a62.png">
 
 https://user-images.githubusercontent.com/97552255/160897906-e493fc07-e3da-4fd4-8950-b4eee4e66a69.mp4
-
-
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
