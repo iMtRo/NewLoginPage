@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Maxmudov Ilyos
 #### I am IOS developer
 ![I am IOS developer](https://o.remove.bg/downloads/7e565e39-924c-481a-83f9-48f42f943dfc/Screen_Shot_2022-03-30_at_18.15.29-removebg-preview.png )
+(https://o.remove.bg/downloads/7e565e39-924c-481a-83f9-48f42f943dfc/Screen_Shot_2022-03-30_at_18.15.29-removebg-preview.png )
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
